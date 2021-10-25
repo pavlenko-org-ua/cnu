@@ -1,0 +1,1163 @@
+# Translation of Plugins - Page Builder by SiteOrigin - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Page Builder by SiteOrigin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-28 08:39:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Page Builder by SiteOrigin - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://siteorigin.com"
+msgstr "https://siteorigin.com"
+
+#. Author of the plugin
+msgid "SiteOrigin"
+msgstr "SiteOrigin"
+
+#. Description of the plugin
+msgid "A drag and drop, responsive page builder that simplifies building your website."
+msgstr "Чуйний конструктор сторінок з драг-енд-дроп, що спрощує створення вашого сайту."
+
+#. Plugin URI of the plugin
+msgid "https://siteorigin.com/page-builder/"
+msgstr "https://siteorigin.com/page-builder/"
+
+#. Plugin Name of the plugin
+msgid "Page Builder by SiteOrigin"
+msgstr "Page Builder від SiteOrigin"
+
+#: widgets/widgets.php:964
+msgid "Auto Play Video"
+msgstr "Автозапуск відео"
+
+#: widgets/widgets.php:959
+msgid "An image that displays before the video starts playing."
+msgstr "Зображення, що відображається до відтворення Відео."
+
+#: widgets/widgets.php:957
+msgid "Poster URL"
+msgstr "Постер URL"
+
+#: widgets/widgets.php:953
+msgid "Video URL"
+msgstr "Відео URL"
+
+#: widgets/widgets.php:911
+msgid "A self hosted video player."
+msgstr "Плеєр завантажених відео."
+
+#: widgets/widgets.php:909
+msgid "Self Hosted Video (PB)"
+msgstr "Завантажене відео (PB)"
+
+#: widgets/widgets.php:893
+msgid "Video"
+msgstr "Відео"
+
+#: widgets/widgets.php:855
+msgid "Embeds a video."
+msgstr "Вставляє відео."
+
+#: widgets/widgets.php:853
+msgid "Embedded Video (PB)"
+msgstr "Вставлене відео (PB)"
+
+#: widgets/widgets.php:802
+msgid "Displays a simple image."
+msgstr "Відображає просте зображення."
+
+#: widgets/widgets.php:800
+msgid "Image (PB)"
+msgstr "Зображення (PB)"
+
+#: widgets/widgets.php:782
+msgid "File"
+msgstr "Файл"
+
+#: widgets/widgets.php:781
+msgid "Attachment Page"
+msgstr "Сторінку додатку"
+
+#: widgets/widgets.php:779
+msgid "Link To"
+msgstr "Посилання на"
+
+#: widgets/widgets.php:774
+msgid "Columns"
+msgstr "Колонки"
+
+#: widgets/widgets.php:769
+msgid "Gallery Type"
+msgstr "Тип галереї"
+
+#: widgets/widgets.php:761
+msgid "Full"
+msgstr "Повний"
+
+#: widgets/widgets.php:760
+msgid "Thumbnail"
+msgstr "Мініатюра"
+
+#: widgets/widgets.php:759
+msgid "Medium"
+msgstr "Середній"
+
+#: widgets/widgets.php:758
+msgid "Large"
+msgstr "Великий"
+
+#: widgets/widgets.php:755
+msgid "Image Size"
+msgstr "Розмір зображення"
+
+#: widgets/widgets.php:751
+msgid "Comma separated attachment IDs. Defaults to all current page's attachments."
+msgstr "Комами відокремлені ID вкладень. Стандартні для всіх вкладень поточної сторінки."
+
+#: widgets/widgets.php:747
+msgid "edit gallery"
+msgstr "редагувати галерею"
+
+#: widgets/widgets.php:746
+msgid "Gallery Images"
+msgstr "Зображення галереї"
+
+#: widgets/widgets.php:707
+msgid "Displays a gallery."
+msgstr "Відображає галерею."
+
+#: widgets/widgets.php:705
+msgid "Gallery (PB)"
+msgstr "Галерея (PB)"
+
+#: widgets/widgets.php:644
+msgid "Additional Arguments"
+msgstr "Додаткові аргументи"
+
+#: widgets/widgets.php:244
+msgid "%s Style"
+msgstr "Стиль %s"
+
+#: widgets/widgets.php:220
+msgid "Style"
+msgstr "Стиль"
+
+#: widgets/widgets/testimonial/testimonial.php:32
+msgid "URL"
+msgstr "URL"
+
+#: widgets/widgets/testimonial/testimonial.php:23
+msgid "Image"
+msgstr "Зображення"
+
+#: widgets/widgets/testimonial/testimonial.php:19
+msgid "Location"
+msgstr "Розміщення"
+
+#: widgets/widgets/testimonial/testimonial.php:8
+msgid "Displays a bullet list of points"
+msgstr "Відображає маркований список"
+
+#: widgets/widgets/testimonial/testimonial.php:6
+msgid "Testimonial (PB)"
+msgstr "Відгук"
+
+#: widgets/widgets/price-box/price-box.php:50
+msgid "Feature List"
+msgstr "Особливий список"
+
+#: widgets/widgets/price-box/price-box.php:31
+msgid "Features Text"
+msgstr "Особливості Текст"
+
+#: widgets/widgets/price-box/price-box.php:27
+msgid "Information Text"
+msgstr "Інформаційний текст"
+
+#: widgets/widgets/price-box/price-box.php:23
+msgid "Per"
+msgstr "За"
+
+#: widgets/widgets/price-box/price-box.php:19
+msgid "Price"
+msgstr "Ціна"
+
+#: widgets/widgets/price-box/price-box.php:6
+msgid "Price Box (PB)"
+msgstr "Поле вартості (PB)"
+
+#: widgets/widgets/price-box/price-box.php:32 widgets/widgets/list/list.php:20
+msgid "Start each new point with an asterisk (*)"
+msgstr "Почати кожний новий пункт зірочкою (*)"
+
+#: widgets/widgets/price-box/price-box.php:8 widgets/widgets/list/list.php:8
+msgid "Displays a bullet list of elements"
+msgstr "Відображає ненумерований список елементів"
+
+#: widgets/widgets/list/list.php:6
+msgid "List (PB)"
+msgstr "Список (PB)"
+
+#: widgets/widgets/call-to-action/call-to-action.php:37
+#: widgets/widgets/price-box/price-box.php:49
+msgid "Button"
+msgstr "Кнопка"
+
+#: widgets/widgets/call-to-action/call-to-action.php:27
+#: widgets/widgets/price-box/price-box.php:40
+msgid "Button URL"
+msgstr "Посилання кнопки"
+
+#: widgets/widgets/call-to-action/call-to-action.php:23
+#: widgets/widgets/price-box/price-box.php:36
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: widgets/widgets/call-to-action/call-to-action.php:19
+msgid "Sub Title"
+msgstr "Підзаголовок"
+
+#: widgets/widgets/call-to-action/call-to-action.php:8
+msgid "A Call to Action block"
+msgstr "Блок заклику до дії"
+
+#: widgets/widgets/call-to-action/call-to-action.php:6
+msgid "Call To Action (PB)"
+msgstr "Заклик до дії (PB)"
+
+#: widgets/widgets/button/button.php:32
+msgid "Justify"
+msgstr "По ширині"
+
+#: widgets/widgets/button/button.php:31 inc/styles.php:260 inc/styles.php:307
+msgid "Center"
+msgstr "Посередині"
+
+#: widgets/widgets/button/button.php:30 inc/styles-admin.php:195
+msgid "Right"
+msgstr "Праворуч"
+
+#: widgets/widgets/button/button.php:29 inc/styles-admin.php:203
+msgid "Left"
+msgstr "Ліворуч"
+
+#: widgets/widgets/button/button.php:27
+msgid "Button Alignment"
+msgstr "Вирівнювання кнопки"
+
+#: widgets/widgets/call-to-action/call-to-action.php:31
+#: widgets/widgets/price-box/price-box.php:44
+#: widgets/widgets/testimonial/testimonial.php:36
+#: widgets/widgets/button/button.php:23
+msgid "Open In New Window"
+msgstr "Відкрити у новому вікні"
+
+#: widgets/widgets.php:839 widgets/widgets/button/button.php:19
+msgid "Destination URL"
+msgstr "Пункт призначення посилання"
+
+#: widgets/widgets/testimonial/testimonial.php:27
+#: widgets/widgets/button/button.php:15 widgets/widgets/list/list.php:19
+msgid "Text"
+msgstr "Текст"
+
+#: widgets/widgets/button/button.php:6
+msgid "Button (PB)"
+msgstr "Кнопка (PB)"
+
+#: widgets/widgets/animated-image/animated-image.php:25
+msgid "Slide Right"
+msgstr "Ковзання праворуч"
+
+#: widgets/widgets/animated-image/animated-image.php:24
+msgid "Slide Left"
+msgstr "Ковзання ліворуч"
+
+#: widgets/widgets/animated-image/animated-image.php:23
+msgid "Slide Down"
+msgstr "Ковзання вниз"
+
+#: widgets/widgets/animated-image/animated-image.php:22
+msgid "Slide Up"
+msgstr "Ковзання вгору"
+
+#: widgets/widgets/animated-image/animated-image.php:21
+msgid "Fade In"
+msgstr "Виникнення"
+
+#: widgets/widgets/animated-image/animated-image.php:19
+msgid "Animation"
+msgstr "Анімація"
+
+#: widgets/widgets.php:835 widgets/widgets/animated-image/animated-image.php:15
+msgid "Image URL"
+msgstr "Посилання зображення"
+
+#: widgets/widgets/animated-image/animated-image.php:8
+msgid "An image that animates in when it enters the screen."
+msgstr "Анімація включається при появі зображення на екрані."
+
+#: widgets/widgets/animated-image/animated-image.php:6
+msgid "Animated Image (PB)"
+msgstr "Анімоване зображення (PB)"
+
+#: widgets/widgets.php:648 inc/widgets/post-loop.php:344
+msgid "Additional query arguments. See 1{query_posts}."
+msgstr "Додаткові аргументи запиту. Див. 1 {query_posts}."
+
+#: inc/widgets/post-loop.php:337
+msgid "Additional "
+msgstr "Додаткові "
+
+#: widgets/widgets.php:638 inc/widgets/post-loop.php:332
+msgid "Only Sticky"
+msgstr "Тільки прикріплені"
+
+#: widgets/widgets.php:637 inc/widgets/post-loop.php:331
+msgid "Exclude Sticky"
+msgstr "Виключити прикріплені"
+
+#: widgets/widgets.php:636 inc/widgets/post-loop.php:330
+msgid "Ignore Sticky"
+msgstr "Ігнорувати прикріплені"
+
+#: widgets/widgets.php:635 widgets/widgets.php:757
+#: inc/widgets/post-loop.php:329 inc/styles.php:246
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: widgets/widgets.php:633 inc/widgets/post-loop.php:327
+msgid "Sticky Posts"
+msgstr "Приліплені записи"
+
+#: widgets/widgets.php:626 inc/widgets/post-loop.php:322
+msgid "Ascending"
+msgstr "У порядку збільшення"
+
+#: widgets/widgets.php:627 inc/widgets/post-loop.php:321
+msgid "Descending"
+msgstr "У порядку зменшення"
+
+#: widgets/widgets.php:624 inc/widgets/post-loop.php:319
+msgid "Order"
+msgstr "Порядок"
+
+#: inc/widgets/post-loop.php:314
+msgid "Post In Order"
+msgstr "Опублікувати в порядку"
+
+#: widgets/widgets.php:618 inc/widgets/post-loop.php:313
+msgid "Menu Order"
+msgstr "Порядок меню"
+
+#: widgets/widgets.php:617 inc/widgets/post-loop.php:312
+msgid "Comment Count"
+msgstr "Кількість Коментарів"
+
+#: widgets/widgets.php:616 inc/widgets/post-loop.php:311
+msgid "Random"
+msgstr "Випадково"
+
+#: widgets/widgets.php:615 inc/widgets/post-loop.php:310
+msgid "Parent"
+msgstr "Предок"
+
+#: widgets/widgets.php:614 inc/widgets/post-loop.php:309
+msgid "Modified"
+msgstr "Змінений"
+
+#: widgets/widgets.php:613 inc/widgets/post-loop.php:308
+msgid "Date"
+msgstr "Дата"
+
+#: widgets/widgets.php:611 widgets/widgets.php:612
+#: widgets/widgets/testimonial/testimonial.php:15 inc/widgets/post-loop.php:306
+#: inc/widgets/post-loop.php:307
+msgid "Name"
+msgstr "Ім’я"
+
+#: widgets/widgets.php:610 inc/widgets/post-loop.php:305
+msgid "Author"
+msgstr "Автор"
+
+#: widgets/widgets.php:609 inc/widgets/post-loop.php:304
+msgid "Post ID"
+msgstr "Запис ID"
+
+#: widgets/widgets.php:606 inc/widgets/post-loop.php:301
+msgid "Order By"
+msgstr "Порядок сортування"
+
+#: widgets/widgets.php:601 inc/widgets/post-loop.php:296
+msgid "Posts Per Page"
+msgstr "Постів на Сторінці"
+
+#: widgets/widgets.php:594 inc/widgets/post-loop.php:287
+msgid "Post Type"
+msgstr "Тип публікації"
+
+#: inc/widgets/post-loop.php:272 inc/widgets/post-loop-helper.php:52
+msgid "If the template supports it, cut posts and display the more link."
+msgstr "Якщо шаблон підтримує дану функцію, обрізати запис і включити відображення посилання \"Далі\"."
+
+#: inc/widgets/post-loop.php:254 inc/widgets/post-loop-helper.php:45
+msgid "Template"
+msgstr "Шаблон"
+
+#: inc/widgets/post-loop.php:220
+msgid "Your theme doesn't have any post loops."
+msgstr "У вашій темі немає циклів публікації."
+
+#: inc/widgets/post-loop.php:25 inc/widgets/post-loop-helper.php:33
+msgid "Displays a post loop."
+msgstr "Відображає цикл публікації."
+
+#: inc/widgets/post-loop.php:23 inc/widgets/post-loop-helper.php:31
+msgid "Post Loop"
+msgstr "Цикл Запису"
+
+#: inc/widgets/post-content.php:67
+msgid "Display Content"
+msgstr "Показувати контент"
+
+#: inc/widgets/post-content.php:62
+msgid "Featured Image"
+msgstr "Зображення запису"
+
+#: widgets/widgets/call-to-action/call-to-action.php:15
+#: widgets/widgets/price-box/price-box.php:15 widgets/widgets/list/list.php:15
+#: inc/widgets/post-loop.php:250 inc/widgets/post-content.php:61
+#: inc/widgets/post-loop-helper.php:41
+msgid "Title"
+msgstr "Заголовок"
+
+#: widgets/widgets.php:608 widgets/widgets.php:783
+#: inc/widgets/post-loop.php:303 inc/widgets/post-content.php:60
+msgid "None"
+msgstr "Нічого"
+
+#: inc/widgets/post-content.php:14
+msgid "Displays content from the current post."
+msgstr "Відображає вміст поточного запису."
+
+#: inc/widgets/post-content.php:12
+msgid "Post Content"
+msgstr "Запис Вміст"
+
+#: inc/widgets/layout.php:109
+msgid "Open Builder"
+msgstr "Відкрити конструктор"
+
+#: inc/widgets/layout.php:15
+msgid "A complete SiteOrigin Page Builder layout as a widget."
+msgstr "Макет конструктора сторінок SiteOrigin у вигляді віджета."
+
+#: inc/widgets/layout.php:13
+msgid "Layout Builder"
+msgstr "Конструктор Макетів"
+
+#: tpl/js-templates.php:603
+msgid "No Results"
+msgstr "Немає результатів"
+
+#: tpl/js-templates.php:530
+msgid "Restore Version"
+msgstr "Відновити версію"
+
+#: tpl/js-templates.php:515
+msgid "Page Builder Change History"
+msgstr "Історія змін Page Builder"
+
+#: tpl/js-templates.php:504
+msgid "Download Layout"
+msgstr "Завантажити макет"
+
+#: tpl/js-templates.php:490
+msgid "Select Import File"
+msgstr "Оберіть файл імпорту"
+
+#: tpl/js-templates.php:487
+msgid "Or"
+msgstr "Або"
+
+#: tpl/js-templates.php:486
+msgid "Drop import file here"
+msgstr "Перетягніть файл імпорту сюди"
+
+#: tpl/js-templates.php:476
+msgid "Next"
+msgstr "Наступне"
+
+#: tpl/js-templates.php:475
+msgid "Previous"
+msgstr "Попереднє"
+
+#: tpl/js-templates.php:447
+msgid "Your search didn't return any results"
+msgstr "Ваш пошук не дав результатів"
+
+#: tpl/js-templates.php:434
+msgid "Enable"
+msgstr "Увімкнути"
+
+#: tpl/js-templates.php:433
+msgid "Do you want to browse the Prebuilt Layouts directory?"
+msgstr "Ви хочете перейти до перегляду встановленого каталогу макетів?"
+
+#: tpl/js-templates.php:404
+msgid "Clone: %s"
+msgstr "Клонувати: %s"
+
+#: tpl/js-templates.php:397
+msgid "Import/Export"
+msgstr "Імпорт/експорт"
+
+#: inc/admin-layouts.php:40 inc/admin-layouts.php:220
+msgid "Layouts Directory"
+msgstr "Каталог макетів"
+
+#: tpl/js-templates.php:382
+msgid "Search"
+msgstr "Шукати"
+
+#: tpl/js-templates.php:22 tpl/js-templates.php:387
+msgid "Prebuilt Layouts"
+msgstr "Готові Макети"
+
+#: tpl/js-templates.php:358 tpl/js-templates.php:416
+msgid "Insert"
+msgstr "Вставити"
+
+#: tpl/js-templates.php:339
+msgid "Set"
+msgstr "Задати"
+
+#: tpl/js-templates.php:333
+msgid "1{Set row layout}: %1$s columns with a ratio of %2$s going from %3$s"
+msgstr "1{Налаштування макета}: %1$s колонки з співвідношенням %2$s розташованої %3$s"
+
+#: tpl/js-templates.php:322
+msgid "Right to Left"
+msgstr "Справа наліво"
+
+#: tpl/js-templates.php:321
+msgid "Left to Right"
+msgstr "Зліва направо"
+
+#: tpl/js-templates.php:236 tpl/js-templates.php:556
+msgid "Close"
+msgstr "Закрити"
+
+#: tpl/js-templates.php:220
+msgid "Add New Widget %s"
+msgstr "Додати новий віджет %s"
+
+#: tpl/js-templates.php:206 tpl/js-templates.php:271 tpl/js-templates.php:360
+msgid "Done"
+msgstr "Готово"
+
+#: tpl/js-templates.php:143 tpl/js-templates.php:267 tpl/js-templates.php:352
+msgid "Delete"
+msgstr "Видалити"
+
+#: tpl/js-templates.php:142 tpl/js-templates.php:268 tpl/js-templates.php:353
+msgid "Duplicate"
+msgstr "Дублювати"
+
+#: tpl/js-templates.php:141 inc/settings.php:317
+msgid "Edit"
+msgstr "Редагувати"
+
+#: tpl/js-templates.php:97 inc/admin.php:452
+msgid "Delete Row"
+msgstr "Видалити рядок"
+
+#: tpl/js-templates.php:96 inc/admin.php:451
+msgid "Duplicate Row"
+msgstr "Дублювати рядок"
+
+#: tpl/js-templates.php:95 inc/admin.php:450
+msgid "Edit Row"
+msgstr "Редагувати рядок"
+
+#: siteorigin-panels.php:506 tpl/js-templates.php:34 tpl/js-templates.php:36
+msgid "Live Editor"
+msgstr "Візуальний редактор"
+
+#: tpl/js-templates.php:31
+msgid "History"
+msgstr "Історія"
+
+#: tpl/js-templates.php:12 tpl/js-templates.php:14
+msgid "Add Widget"
+msgstr "Додати віджет"
+
+#: tpl/help.php:18
+msgid "Read the 1{full documentation} on SiteOrigin. Ask a question on our 2{support forum} if you need help and sign up to 3{our newsletter} to stay up to date with future developments."
+msgstr "Прочитайте 1 {повну документацію} на сайті SiteOrigin. Якщо Вам необхідна допомога, задайте питання на нашому 2 {форумі технічної підтримки} і підпишіться на 3 {нашу розсилку} для отримання інформації про оновлення та нові розробки."
+
+#: tpl/help.php:3
+msgid "The page layouts are responsive and fully customizable."
+msgstr "Макет сторінки є чуйним і повністю настроюється."
+
+#: tpl/help.php:2
+msgid "You can use SiteOrigin Page Builder to create home and sub pages, filled your own widgets."
+msgstr "Ви можете використовувати SiteOrigin Page Builder для створення домашніх і допоміжних сторінок, заповнивши власні віджети."
+
+#: tpl/admin-home-page.php:64
+msgid "This interface requires Javascript"
+msgstr "Цей інтерфейс вимагає JavaScript"
+
+#: tpl/admin-home-page.php:60
+msgid "Save Home Page"
+msgstr "Зберегти домашню сторінку"
+
+#: tpl/admin-home-page.php:41
+msgid "Home page updated. 1{View page}."
+msgstr "Домашня сторінка оновлена. 1 {Переглянути сторінку}."
+
+#: tpl/admin-home-page.php:25
+msgid "Custom Home Page"
+msgstr "Користувацька домашня сторінка"
+
+#: tpl/admin-home-page.php:21
+msgid "Off"
+msgstr "on"
+
+#: tpl/admin-home-page.php:21
+msgid "On"
+msgstr "Увімк."
+
+#: inc/admin-dashboard.php:95 inc/admin.php:161
+msgid "Support Forum"
+msgstr "Форум підтримки"
+
+#: inc/admin.php:960
+msgid "The widget 1{%1$s} is not available. Please try locate and install the missing plugin. Post on the 2{support forums} if you need help."
+msgstr "Віджет 1 (%1$s) недоступний. Будь ласка, спробуйте знайти та встановити відсутній плагін. Опублікуйте на 2 (форумах підтримки), якщо вам потрібна допомога."
+
+#: inc/admin.php:944
+msgid "Save and reload this page to start using the widget after you've installed it."
+msgstr "Збережіть та перезавантажте цю сторінку, щоб почати користуватися віджетом після його встановлення."
+
+#: inc/admin.php:938
+msgid "You need to install 1{%1$s} to use the widget 2{%2$s}."
+msgstr "Вам потрібно встановити 1 {%1$s}, щоб використовувати віджет 2 {%2$s}."
+
+#: siteorigin-panels.php:486
+msgid "Edit Home Page"
+msgstr "Редагувати Головну сторінку"
+
+#: siteorigin-panels.php:338
+msgid "Read More"
+msgstr "Читати далі"
+
+#: inc/admin.php:758
+msgid "Untitled Widget"
+msgstr "Віджет без назви"
+
+#: inc/admin.php:482
+msgid "Error uploading or importing file."
+msgstr "Помилка завантаження або імпорту файлу."
+
+#: inc/admin.php:481
+msgid "Page Builder layouts"
+msgstr "Макети Page Builder"
+
+#: inc/admin.php:437
+msgid "Column"
+msgstr "Колонка"
+
+#: tpl/js-templates.php:17 tpl/js-templates.php:19 inc/admin.php:436
+msgid "Add Row"
+msgstr "Додати рядок"
+
+#: tpl/js-templates.php:224 inc/admin.php:434
+msgid "Search Widgets"
+msgstr "Пошук віджетів"
+
+#: inc/admin.php:433
+msgid "Add Widget to Cell"
+msgstr "Додати віджет до клітинки"
+
+#: inc/admin.php:432
+msgid "Add Widget Below"
+msgstr "Додати віджет нижче"
+
+#: tpl/js-templates.php:97 tpl/js-templates.php:422 inc/admin.php:426
+msgid "Are you sure?"
+msgstr "Ви впевнені?"
+
+#: inc/admin.php:424
+msgid "Layout Builder Widget"
+msgstr "Віджет Конструктор Макетів"
+
+#: inc/admin.php:422
+msgid "Would you like to clear your Page Builder content and revert to using the standard visual editor?"
+msgstr "Ви хочете очистити вміст Page Builder і повернутися до використання стандартного візуального редактора?"
+
+#: inc/admin.php:421
+msgid "Would you like to copy this editor's existing content to Page Builder?"
+msgstr "Ви хотіли б скопіювати існуючий вміст редактора в Page Builder?"
+
+#: inc/admin.php:420
+msgid "Loading prebuilt layout"
+msgstr "Завантаження готового макету"
+
+#: inc/admin.php:416
+msgid "Prebuilt layout loaded"
+msgstr "Готовий макет завантажений"
+
+#: inc/admin.php:413
+msgid "Cell resized"
+msgstr "Розмір клітинки змінений"
+
+#: inc/admin.php:408
+msgid "Row duplicated"
+msgstr "Рядок дубльовано"
+
+#: inc/admin.php:406
+msgid "Row moved"
+msgstr "Рядок переміщено"
+
+#: inc/admin.php:404
+msgid "Row edited"
+msgstr "Рядок редаговано"
+
+#: inc/admin.php:402
+msgid "Row added"
+msgstr "Рядок додано"
+
+#: inc/admin.php:400
+msgid "Row deleted"
+msgstr "Рядок видалено"
+
+#: inc/admin.php:396
+msgid "Widget moved"
+msgstr "Віджет переміщено"
+
+#: inc/admin.php:394
+msgid "Widget duplicated"
+msgstr "Віджет дубльовано"
+
+#: inc/admin.php:392
+msgid "Widget edited"
+msgstr "Віджет редаговано"
+
+#: inc/admin.php:390
+msgid "Widget added"
+msgstr "Віджет додано"
+
+#: inc/admin.php:388
+msgid "Widget deleted"
+msgstr "Віджет видалено"
+
+#: inc/admin.php:384
+msgid "Converted to editor"
+msgstr "Перетворено до редактора"
+
+#: inc/admin.php:383
+msgid "Version restored"
+msgstr "Версія відновлена"
+
+#: inc/admin.php:382
+msgid "Original"
+msgstr "Оригінал"
+
+#: inc/admin.php:381
+msgid "Current"
+msgstr "Поточний"
+
+#: inc/admin.php:377
+msgid "Now"
+msgstr "Зараз"
+
+#: inc/admin.php:376
+msgid "%s before"
+msgstr "%s раніше"
+
+#: inc/admin.php:373
+msgid "%d hour"
+msgstr "%d годин"
+
+#: inc/admin.php:371
+msgid "%d minute"
+msgstr "%d хвилин"
+
+#: inc/admin.php:369
+msgid "%d second"
+msgstr "%d секунд"
+
+#: inc/admin.php:366
+msgid "%d hours"
+msgstr "%d години"
+
+#: inc/admin.php:364
+msgid "%d minutes"
+msgstr "%d хвилин"
+
+#: inc/admin.php:362
+msgid "%d seconds"
+msgstr "%d секунд"
+
+#: inc/admin.php:358
+msgid "Page Builder doesn't know about this widget."
+msgstr "Page Builder не знає про цей віджет."
+
+#: inc/admin.php:357
+msgid "Missing Widget"
+msgstr "Відсутній Віджет"
+
+#: inc/admin.php:330
+msgid "All Widgets"
+msgstr "Усі віджети"
+
+#: inc/home.php:26 inc/admin.php:657
+msgid "Home Page"
+msgstr "Головна сторінка"
+
+#: inc/home.php:25
+msgid "Custom Home Page Builder"
+msgstr "Власний Домашня Сторінка Builder"
+
+#: settings/tpl/settings.php:84
+msgid "Save Settings"
+msgstr "Зберегти налаштування"
+
+#: settings/tpl/settings.php:30
+msgid "Settings Saved"
+msgstr "Налаштування збережені"
+
+#: settings/tpl/settings.php:12
+msgid "Search Settings"
+msgstr "Настройки Пошуку"
+
+#: settings/tpl/help.php:6
+msgid "Please read the 1{settings guide} of the Page Builder documentation for help."
+msgstr "Будь ласка, ознайомтеся з довідкою 1 {Посібник із налаштування} документації Page Builder."
+
+#: inc/settings.php:444
+msgid "Copy content from Page Builder to post content."
+msgstr "Копіюйте вміст з Builder Page до вмісту публікації."
+
+#: inc/settings.php:443
+msgid "Copy Content"
+msgstr "Копіювати вміст"
+
+#: inc/settings.php:437
+msgid "Content"
+msgstr "Вміст"
+
+#: inc/settings.php:430
+msgid "The container used for the full width layout."
+msgstr "Контейнер використовується для макета повної ширини."
+
+#: inc/settings.php:429
+msgid "Full Width Container"
+msgstr "Повна ширина Контейнер"
+
+#: inc/settings.php:423
+msgid "Default spacing between columns in each row."
+msgstr "Стандартний інтервал між стовпцями в кожному рядку."
+
+#: inc/settings.php:422
+msgid "Row Gutter"
+msgstr "Інтервал між стовпцями"
+
+#: inc/settings.php:403
+msgid "Device width, in pixels, to collapse into a mobile view ."
+msgstr "Ширина пристрою, в пікселях, згортатиметься в мобільному режимі."
+
+#: inc/settings.php:402
+msgid "Mobile Width"
+msgstr "Мобільна ширина"
+
+#: inc/settings.php:372
+msgid "Collapse widgets, rows and columns on mobile devices."
+msgstr "Звертати віджети, рядки і колонки на мобільних пристроях."
+
+#: inc/settings.php:371
+msgid "Responsive Layout"
+msgstr "Гнучкий макет"
+
+#: inc/settings.php:351
+msgid "Display recommend widgets in Page Builder add widget dialog."
+msgstr "Показати рекомендовані віджети у вікні додавання нового віджету Page Builder."
+
+#: inc/settings.php:345
+msgid "Load legacy widgets from Page Builder 1."
+msgstr "Завантажте застарілі віджети з Builder 1."
+
+#: inc/settings.php:344
+msgid "Legacy Bundled Widgets"
+msgstr "Застарівші Набори Віджетів"
+
+#: inc/settings.php:333
+msgid "The HTML used for widget titles. {{title}} is replaced with the widget title."
+msgstr "HTML використовується для назв віджетів. {{title}} замінюється заголовком віджета."
+
+#: inc/settings.php:332
+msgid "Widget Title HTML"
+msgstr "Віджет Заголовок HTML"
+
+#: inc/settings.php:326
+msgid "Widgets"
+msgstr "Віджети"
+
+#: inc/settings.php:248
+msgid "Post Types"
+msgstr "Типи публікацій"
+
+#: inc/settings.php:242
+msgid "General"
+msgstr "Загальні"
+
+#: inc/settings.php:226
+msgid "Page Builder Settings"
+msgstr "Налаштування Page Builder"
+
+#: tpl/js-templates.php:197 inc/admin.php:178 inc/admin.php:574
+#: inc/admin.php:1172 inc/admin.php:1177 inc/settings.php:199
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: settings/tpl/settings.php:9 inc/admin.php:1427 inc/admin.php:1474
+#: inc/settings.php:199
+msgid "SiteOrigin Page Builder"
+msgstr "SiteOrigin Page Builder"
+
+#: inc/admin-widget-dialog.php:185 inc/settings.php:350
+msgid "Recommended Widgets"
+msgstr "Рекомендовані віджети"
+
+#: inc/admin-widget-dialog.php:177
+msgid "BBPress"
+msgstr "BBPress"
+
+#: inc/admin-widget-dialog.php:166
+msgid "Jetpack"
+msgstr "Jetpack"
+
+#: inc/admin-widget-dialog.php:155
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin-widget-dialog.php:145
+msgid "WordPress Widgets"
+msgstr "Віджети WordPress"
+
+#: inc/admin-widget-dialog.php:137
+msgid "You can enable the legacy (PB) widgets in the 1{Page Builder settings}."
+msgstr "Ви можете ввімкнути віджети зі старої версії (PB) в 1{Налаштування Page Builder}."
+
+#: inc/admin-widget-dialog.php:129
+msgid "Page Builder Widgets"
+msgstr "Віджети Page Builder"
+
+#: inc/admin-widget-dialog.php:121
+msgid "Install the 1{Widgets Bundle} to get extra widgets."
+msgstr "Встановіть 1 {Набор Віджетів}, щоб отримати додаткові віджети."
+
+#: inc/admin-widget-dialog.php:114
+msgid "Enable more widgets in the 1{Widgets Bundle settings}."
+msgstr "Увімкніть інші віджети в 1 {Налаштування набору віджетів}."
+
+#: widgets/widgets.php:164 inc/admin-widget-dialog.php:99
+msgid "Widgets Bundle"
+msgstr "Набір Віджетів"
+
+#: inc/data/widgets-bundle.php:68
+msgid "Display your posts as a carousel."
+msgstr "Показати Ваші повідомлення як карусель."
+
+#: inc/data/widgets-bundle.php:67
+msgid "SiteOrigin Post Carousel"
+msgstr "SiteOrigin Карусель"
+
+#: inc/data/widgets-bundle.php:56
+msgid "Display site features as a collection of icons."
+msgstr "Показати функції сайту як набір значків."
+
+#: inc/data/widgets-bundle.php:55
+msgid "SiteOrigin Features"
+msgstr "SiteOrigin Особливості"
+
+#: inc/data/widgets-bundle.php:44
+msgid "A basic slider widget."
+msgstr "Основний віджет слайдера."
+
+#: inc/data/widgets-bundle.php:43
+msgid "SiteOrigin Slider"
+msgstr "Слайдер SiteOrigin"
+
+#: inc/data/widgets-bundle.php:32
+msgid "Choose images from your media library."
+msgstr "Виберіть зображення з медіатеки."
+
+#: inc/data/widgets-bundle.php:31
+msgid "SiteOrigin Image"
+msgstr "Зображення SiteOrigin"
+
+#: widgets/widgets/button/button.php:8 inc/data/widgets-bundle.php:20
+msgid "A simple button"
+msgstr "Проста кнопка"
+
+#: inc/data/widgets-bundle.php:19
+msgid "SiteOrigin Button"
+msgstr "Кнопка SiteOrigin"
+
+#: inc/data/widgets-bundle.php:11 inc/data/widgets-bundle.php:23
+#: inc/data/widgets-bundle.php:35 inc/data/widgets-bundle.php:47
+#: inc/data/widgets-bundle.php:59 inc/data/widgets-bundle.php:71
+#: inc/admin-widget-dialog.php:120
+msgid "SiteOrigin Widgets Bundle"
+msgstr "SiteOrigin Набір Віджетів"
+
+#: inc/data/widgets-bundle.php:8
+msgid "A rich text editor"
+msgstr "Текстовий редактор"
+
+#: inc/data/widgets-bundle.php:7
+msgid "SiteOrigin Editor"
+msgstr "SiteOrigin Редактор"
+
+#: inc/styles-admin.php:273 inc/settings.php:503
+msgid "Enabled"
+msgstr "Увімкнено"
+
+#: inc/styles-admin.php:253
+msgid "Remove"
+msgstr "Видалити"
+
+#: inc/styles-admin.php:248
+msgid "Select Image"
+msgstr "Вибрати зображення"
+
+#: inc/styles-admin.php:106
+msgid "Theme"
+msgstr "Тема"
+
+#: inc/styles-admin.php:96
+msgid "Design"
+msgstr "Дизайн"
+
+#: inc/styles-admin.php:88 inc/settings.php:363
+msgid "Layout"
+msgstr "Формат"
+
+#: inc/styles-admin.php:84
+msgid "Attributes"
+msgstr "Атрибути"
+
+#: inc/styles-admin.php:55
+msgid "Widget Styles"
+msgstr "Стилі віджетів"
+
+#: inc/styles-admin.php:46
+msgid "Row Styles"
+msgstr "Стилі рядків"
+
+#: inc/revisions.php:83
+msgid "Page Builder Content"
+msgstr "Вміст Page Builder"
+
+#: inc/admin-widgets-bundle.php:77
+msgid "Installing %s"
+msgstr "Встановлення %s"
+
+#: inc/admin-widgets-bundle.php:19 inc/admin-widgets-bundle.php:20
+msgid "Install Page Builder Plugin"
+msgstr "Встановити Page Builder плагін"
+
+#: inc/styles.php:358
+msgid "Color of text inside this widget."
+msgstr "Колір тексту всередині віджета."
+
+#: inc/styles.php:315 inc/styles.php:355
+msgid "Font Color"
+msgstr "Колір Шрифту"
+
+#: inc/styles.php:170
+msgid "Border Color"
+msgstr "Колір меж"
+
+#: inc/styles.php:165
+msgid "How the background image is displayed."
+msgstr "Як відображається фонове зображення."
+
+#: inc/styles.php:162
+msgid "Parallax"
+msgstr "Паралакс"
+
+#: inc/styles.php:159
+msgid "Centered, with original size"
+msgstr "Центрований, оригінальний розміром"
+
+#: inc/styles.php:158
+msgid "Cover"
+msgstr "Накривати"
+
+#: inc/styles.php:157
+msgid "Tiled Image"
+msgstr "Зображення плиткою"
+
+#: inc/styles.php:153
+msgid "Background Image Display"
+msgstr "Показ Фонового зображення"
+
+#: inc/styles.php:145
+msgid "Background Image"
+msgstr "Зображення фону"
+
+#: inc/styles.php:137
+msgid "Background Color"
+msgstr "Колір тла"
+
+#: inc/styles.php:224
+msgid "Full Width Stretched"
+msgstr "Повна ширина розтягнута"
+
+#: inc/styles.php:223
+msgid "Full Width"
+msgstr "Повна ширина"
+
+#: inc/styles.php:222 inc/styles.php:235
+msgid "Standard"
+msgstr "Стандартний"
+
+#: inc/styles.php:218
+msgid "Row Layout"
+msgstr "Макет рядка"
+
+#: inc/styles.php:115
+msgid "Padding"
+msgstr "Заповнення"
+
+#: inc/styles.php:210
+msgid "Gutter"
+msgstr "Інтервал між стовпцями"
+
+#: inc/styles.php:202
+msgid "Bottom Margin"
+msgstr "Нижнє поле"
+
+#: inc/styles.php:97
+msgid "CSS Styles"
+msgstr "Стилі CSS"
+
+#: inc/styles.php:195
+msgid "Class added to all cells in this row."
+msgstr "Клас додається до всіх комірок у цьому рядку."
+
+#: inc/styles.php:192
+msgid "Cell Class"
+msgstr "Клас комірки"
+
+#: inc/styles.php:92
+msgid "A CSS class"
+msgstr "Клас CSS"
